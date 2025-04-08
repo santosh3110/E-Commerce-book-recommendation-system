@@ -2,7 +2,7 @@
 # 📚 E-Commerce Book Recommendation System
 
 ## Demo
-![App Screenshot](![alt text](image-1.png))
+![alt text](image-2.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
