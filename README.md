@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # 📚 E-Commerce Book Recommendation System
+=======
+![image](https://github.com/user-attachments/assets/ba7be9db-09e1-485e-9298-524b1e8a5256)
+>>>>>>> 699275301621590faf0add96a6ac488ece5e6842
 
 ## Demo
 ![App Screenshot](c:\Users\lenovo\Desktop\image.png)
@@ -113,6 +117,7 @@ The model is trained using **Collaborative Filtering** with the **Nearest Neighb
 ## 🚀 Model Deployment
 The application is deployed using **Streamlit** inside a **Docker container** and can be hosted on **AWS EC2** or any cloud provider.
 
+<<<<<<< HEAD
 ## 🌟 Future Improvements
 - Implement advanced Collaborative Filtering techniques like **Matrix Factorization**.
 - Incorporate **metadata features** such as book **genres**, **authors**, etc.
@@ -120,13 +125,31 @@ The application is deployed using **Streamlit** inside a **Docker container** an
 
 ## 🤝 Contributing
 Contributions are welcome!  
+=======
+🌟 Future Improvements
+Implement advanced Collaborative Filtering techniques like Matrix Factorization.
+Incorporate metadata features such as book genres, authors, etc.
+Improve evaluation with robust metrics like Mean Average Precision (MAP).
+
+🤝 Contributing
+Contributions are welcome!
+>>>>>>> 699275301621590faf0add96a6ac488ece5e6842
 Feel free to submit a pull request with your improvements, bug fixes, or ideas.
 
 ## 📜 License
 This project is licensed under the [Apache 2.0](LICENSE).
 
+<<<<<<< HEAD
 ## 🙏 Acknowledgments
 - Deployed using **Streamlit** and **Docker** for easy access.
+=======
+🙏 Acknowledgments
+Deployed using Streamlit and Docker for easy access.
+
+📬 Contact
+For any questions or feedback, feel free to reach out:
+GitHub: santosh3110
+>>>>>>> 699275301621590faf0add96a6ac488ece5e6842
 
 ## 📬 Contact
 For any questions or feedback, feel free to reach out:  
