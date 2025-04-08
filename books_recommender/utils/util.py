@@ -1,6 +1,6 @@
 import yaml
 import sys
-from books_recommender.exception.exception_handler import AppException
+from books_recommender.exception.exception_handler import CustomException
 
 
 
@@ -13,4 +13,4 @@ def read_yaml_file(file_path:str)->dict:
         with open(file_path, 'rb') as yaml_file:
             return yaml.safe_load(yaml_file)
     except Exception as e:
-        raise AppException(e,sys) from e
+        raise CustomException(e,sys) from e
