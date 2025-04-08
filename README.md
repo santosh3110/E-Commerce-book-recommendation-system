@@ -1,7 +1,7 @@
 📚 E-Commerce Book Recommendation System
 Demo
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ba7be9db-09e1-485e-9298-524b1e8a5256)
 
 Table of Contents
 Introduction
@@ -140,10 +140,8 @@ The application is deployed using Streamlit inside a Docker container and can be
 
 🌟 Future Improvements
 Implement advanced Collaborative Filtering techniques like Matrix Factorization.
-
 Incorporate metadata features such as book genres, authors, etc.
-
-Improve evaluation with more robust metrics like Mean Average Precision (MAP).
+Improve evaluation with robust metrics like Mean Average Precision (MAP).
 
 🤝 Contributing
 Contributions are welcome!
@@ -151,6 +149,9 @@ Feel free to submit a pull request with your improvements, bug fixes, or ideas.
 
 📜 License
 This project is licensed under the Apache 2.0 License.
+
+🙏 Acknowledgments
+Deployed using Streamlit and Docker for easy access.
 
 📬 Contact
 For any questions or feedback, feel free to reach out:
