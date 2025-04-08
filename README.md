@@ -2,7 +2,7 @@
 # 📚 E-Commerce Book Recommendation System
 
 ## Demo
-![App Screenshot](c:\Users\lenovo\Desktop\image.png)
+![App Screenshot](![alt text](image-1.png))
 
 ## Table of Contents
 - [Introduction](#introduction)
